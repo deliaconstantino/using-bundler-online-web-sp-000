@@ -4,7 +4,7 @@ gem "rspec"
 # gem "sinatra"
 gem "hashie"
 # gem "sinatra", "1.4.5"
-gem "octokit", 
+gem "octokit", "~> 2.0"
 
 
 group :development do
